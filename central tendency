@@ -1,0 +1,20 @@
+###mean::
+# Defining vector
+x <- c(1, 5, 8, 10)
+  
+# Print Harmonic Mean
+print(1 / mean(1 / x))
+
+
+
+
+
+
+#####median::
+# Defining vector
+x <- c(3, 7, 5, 13, 20, 23, 39, 
+       23, 40, 23, 14, 12, 56, 23)
+  
+# Print Median
+median(x)
+
